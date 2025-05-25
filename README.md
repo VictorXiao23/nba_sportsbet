@@ -1,3 +1,3 @@
-# Sports Betting Project
+# NBA Sports Betting Project
 
-This repository contains code for a sports betting analysis project.
+This repository contains code for NBA sports betting analysis project.
